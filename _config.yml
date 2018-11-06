@@ -6,7 +6,7 @@
 name: Zou Weiqi from USTC
 
 # Short bio or description (displayed in the header)
-description: Blog
+description: Forever Young, Forever Tears!
 
 
 #
@@ -15,19 +15,19 @@ description: Blog
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  # dribbble:
   email: artisan@mail.ustc.edu.cn
-  facebook:
-  flickr:
-  github: zouwq
-  instagram:
+  # facebook:
+  # flickr:
+  # github: zouwq
+  # instagram:
   # linkedin: akshay-agarwal-782018a4
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  # pinterest:
+  # rss: # just type anything here for a working RSS icon
+  # twitter: 
+  # stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
+  # youtube: # channel/<your_long_string> or user/<user-name>
+  # googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
